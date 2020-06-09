@@ -12,7 +12,7 @@ package clase9junio2020_repositoriogithub;
 public class Flecha {
 
     public Flecha() {
-        System.out.println("Flecha");
+        System.out.println("Flechas");
     }
     
 }
