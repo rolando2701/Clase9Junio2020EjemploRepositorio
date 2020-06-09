@@ -20,6 +20,8 @@ public class Clase9Junio2020_RepositorioGithub {
         
         System.out.println("Saludo a Yareth y Cristian");
         
+        Cristian c = new Cristian();
+        c.ejecucion();
     }
     
 }
