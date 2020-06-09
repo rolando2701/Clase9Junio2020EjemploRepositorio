@@ -16,12 +16,9 @@ public class Clase9Junio2020_RepositorioGithub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola Mundo");
-        
+        System.out.println("Hola Mundo");      
         System.out.println("Saludo a Yareth y Cristian");
-        
-        Cristian c = new Cristian();
-        c.ejecucion();
+
     }
     
 }
